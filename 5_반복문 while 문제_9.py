@@ -6,7 +6,7 @@
 # print("{} X 2 = {}".format(dan, dan * 2))
 # print("{} X 3 = {}".format(dan, dan * 3))
 # print("{} X 4 = {}".format(dan, dan * 4))
-dan = 5
+dan = 3
 i = 1
 while i <= 9 :
     #======
