@@ -4,12 +4,12 @@
 def introduce(cnt) :
   a = 1
   while a <= cnt :
-    print("안녕하세요. 저는 차태진입니다 ")
+    print("안녕하세요. 저는 김지상입니다 ")
     a += 1
 
 def introduce2(cnt) :
   for i in range(0, cnt) :
-    print("안녕하세요 저는 차태진입니다.")
+    print("안녕하세요 저는 김지상입니다.")
     
 # v2
 introduce(10)
